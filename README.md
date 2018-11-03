@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-[Download](https://mega.nz/#!gtlnCIKL!yTjl4Q5mJGSfByZBD0-jd118Ix6Q0Fb7P8OcAspN9pU)
+[Download](https://mega.nz/#!45Vy0CYK!AkQGdD69eA8HHCeIMcK1sCdr3w8FUzFbh--brRNOSy0)
 
 Use popular Twitch emotes on WhatsApp
 

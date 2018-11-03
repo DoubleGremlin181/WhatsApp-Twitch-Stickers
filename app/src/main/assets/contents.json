@@ -1,0 +1,126 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Twitch Emotes",
+      "publisher": "DoubleGremlin181",
+      "tray_image_file": "monkaS_icon.png",
+      "publisher_email":"",
+      "publisher_website": "https://www.kavishhukmani.me",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_monkaS.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "02_Kappa.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "03_DansGame.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "04_ez.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "05_4Head.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "06_Jebaited.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "07_OMEGALUL.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "08_cmonBruh.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "09_FeelsBadMan.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "10_Huh.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "11_LuL.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "12_MingLee.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "13_PJSalt.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "14_PogChamp.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "15_ResidentSleeper.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "16_TriHard.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "17_PepeHands.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "18_AYAYA.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "19_BabyRage.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "20_BibleThump.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "21_haHAA.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "22_HotPokket.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "23_KKona.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "24_Krappa.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "25_SeemsGood.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "26_WaitWhat.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "27_WutFace.webp",
+          "emojis": []
+        }
+      ]
+    }
+  ]
+}

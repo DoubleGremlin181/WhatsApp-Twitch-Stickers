@@ -6,118 +6,182 @@
       "identifier": "1",
       "name": "Twitch Emotes",
       "publisher": "DoubleGremlin181",
-      "tray_image_file": "monkaS_icon.png",
+      "tray_image_file": "Kappa_icon.png",
       "publisher_email":"",
       "publisher_website": "https://www.kavishhukmani.me",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "01_monkaS.webp",
+          "image_file": "4Head.webp",
           "emojis": []
         },
         {
-          "image_file": "02_Kappa.webp",
+          "image_file": "ANELE.webp",
           "emojis": []
         },
         {
-          "image_file": "03_DansGame.webp",
+          "image_file": "BabyRage.webp",
           "emojis": []
         },
         {
-          "image_file": "04_ez.webp",
+          "image_file": "BibleThump.webp",
           "emojis": []
         },
         {
-          "image_file": "05_4Head.webp",
+          "image_file": "BlessRNG.webp",
           "emojis": []
         },
         {
-          "image_file": "06_Jebaited.webp",
+          "image_file": "BrokeBack.webp",
           "emojis": []
         },
         {
-          "image_file": "07_OMEGALUL.webp",
+          "image_file": "cmonBruh.webp",
           "emojis": []
         },
         {
-          "image_file": "08_cmonBruh.webp",
+          "image_file": "DansGame.webp",
           "emojis": []
         },
         {
-          "image_file": "09_FeelsBadMan.webp",
+          "image_file": "FailFish.webp",
           "emojis": []
         },
         {
-          "image_file": "10_Huh.webp",
+          "image_file": "HotPokket.webp",
           "emojis": []
         },
         {
-          "image_file": "11_LuL.webp",
+          "image_file": "Jebaited.webp",
           "emojis": []
         },
         {
-          "image_file": "12_MingLee.webp",
+          "image_file": "Kappa.webp",
           "emojis": []
         },
         {
-          "image_file": "13_PJSalt.webp",
+          "image_file": "KappaPride.webp",
           "emojis": []
         },
         {
-          "image_file": "14_PogChamp.webp",
+          "image_file": "MingLee.webp",
           "emojis": []
         },
         {
-          "image_file": "15_ResidentSleeper.webp",
+          "image_file": "OSFrog.webp",
           "emojis": []
         },
         {
-          "image_file": "16_TriHard.webp",
+          "image_file": "PJSalt.webp",
           "emojis": []
         },
         {
-          "image_file": "17_PepeHands.webp",
+          "image_file": "PogChamp.webp",
           "emojis": []
         },
         {
-          "image_file": "18_AYAYA.webp",
+          "image_file": "ResidentSleeper.webp",
           "emojis": []
         },
         {
-          "image_file": "19_BabyRage.webp",
+          "image_file": "SeemsGood.webp",
           "emojis": []
         },
         {
-          "image_file": "20_BibleThump.webp",
+          "image_file": "TriHard.webp",
           "emojis": []
         },
         {
-          "image_file": "21_haHAA.webp",
+          "image_file": "TTours.webp",
           "emojis": []
         },
         {
-          "image_file": "22_HotPokket.webp",
+          "image_file": "VoHiYo.webp",
           "emojis": []
         },
         {
-          "image_file": "23_KKona.webp",
+          "image_file": "WutFace.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "FFZ, BTTV and more",
+      "publisher": "DoubleGremlin181",
+      "tray_image_file": "monkaS_icon.png",
+      "publisher_email": "",
+      "publisher_website": "https://www.kavishhukmani.me",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "AYAYA.webp",
           "emojis": []
         },
         {
-          "image_file": "24_Krappa.webp",
+          "image_file": "ez.webp",
           "emojis": []
         },
         {
-          "image_file": "25_SeemsGood.webp",
+          "image_file": "FeelsBadMan.webp",
           "emojis": []
         },
         {
-          "image_file": "26_WaitWhat.webp",
+          "image_file": "FeelsGoodMan.webp",
           "emojis": []
         },
         {
-          "image_file": "27_WutFace.webp",
+          "image_file": "FeelsWeirdMan.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "gachiGASM.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "haHAA.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Huh.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "KKona.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Krappa.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "LuL.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "monkaS.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "OMEGALUL.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Pepega.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "PepeHands.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "POGGERS.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "WaitWhat.webp",
           "emojis": []
         }
       ]

@@ -7,10 +7,6 @@ android:
     - 'android-sdk-preview-license-52d11cd2'
     - 'android-sdk-license-.+'
     - 'google-gdk-license-.+'
-script:
-        - ./gradlew build
-before_install:
-        - chmod +x gradlew
 branches:
         only:
                 - master

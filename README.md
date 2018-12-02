@@ -1,7 +1,7 @@
 # WhatsApp Twitch Stickers
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
+[![Build Status](https://travis-ci.org/DoubleGremlin181/WhatsApp-Twitch-Stickers.svg?branch=master)](https://travis-ci.org/DoubleGremlin181/WhatsApp-Twitch-Stickers)
+[Download](https://github.com/DoubleGremlin181/WhatsApp-Twitch-Stickers/releases/download/2.0/app-debug.apk)
 
 Use popular Twitch emotes on WhatsApp
 

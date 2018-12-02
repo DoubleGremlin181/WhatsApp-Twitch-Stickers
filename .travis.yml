@@ -1,0 +1,12 @@
+language: android
+android:
+  components:
+    - android-28
+    - build-tools-28.0.2
+script:
+        - ./gradlew build
+before_install:
+        - chmod +x gradlew
+branches:
+        only:
+                - master

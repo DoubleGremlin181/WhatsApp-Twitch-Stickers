@@ -9,7 +9,7 @@ Use popular Twitch emotes on WhatsApp
 # Includes :
 
   - Kappa
-  ![Kappa](app\src\main\assets\1\Kappa.webp)
+  ![Kappa](https://github.com/DoubleGremlin181/WhatsApp-Twitch-Stickers/blob/master/app/src/main/assets/1/Kappa.webp)
   - DansGame
   - ez
   - monkaS

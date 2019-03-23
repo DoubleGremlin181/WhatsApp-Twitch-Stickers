@@ -11,9 +11,9 @@ Use popular Twitch emotes on WhatsApp
   - Kappa <img src="https://github.com/DoubleGremlin181/WhatsApp-Twitch-Stickers/blob/master/app/src/main/assets/1/Kappa.webp" alt="drawing" width="32"/>
   - monkaS <img src="https://github.com/DoubleGremlin181/WhatsApp-Twitch-Stickers/blob/master/app/src/main/assets/2/monkaS.webp" alt="drawing" width="32"/> 
   - PogChamp <img src="https://github.com/DoubleGremlin181/WhatsApp-Twitch-Stickers/blob/master/app/src/main/assets/1/PogChamp.webp" alt="drawing" width="32"/>
-  - OMEAGLUL <img src="https://github.com/DoubleGremlin181/WhatsApp-Twitch-Stickers/blob/master/app/src/main/assets/2/OMEGALUL.webp" alt="drawing" width="32"/>
+  - OMEAGLUL <img src="https://github.com/DoubleGremlin181/WhatsApp-Twitch-Stickers/blob/master/app/src/main/assets/3/OMEGALUL.webp" alt="drawing" width="32"/>
   - 4Head <img src="https://github.com/DoubleGremlin181/WhatsApp-Twitch-Stickers/blob/master/app/src/main/assets/1/4Head.webp" alt="drawing" width="32"/>
-  - LuL <img src="https://github.com/DoubleGremlin181/WhatsApp-Twitch-Stickers/blob/master/app/src/main/assets/2/LuL.webp" alt="drawing" width="32"/>
+  - LuL <img src="https://github.com/DoubleGremlin181/WhatsApp-Twitch-Stickers/blob/master/app/src/main/assets/3/LuL.webp" alt="drawing" width="32"/>
   - TriHard <img src="https://github.com/DoubleGremlin181/WhatsApp-Twitch-Stickers/blob/master/app/src/main/assets/1/TriHard.webp" alt="drawing" width="32"/>
   - and more...
 

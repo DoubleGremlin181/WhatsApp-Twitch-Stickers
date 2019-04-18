@@ -17,6 +17,7 @@ Use popular Twitch emotes on WhatsApp
   - TriHard <img src="https://github.com/DoubleGremlin181/WhatsApp-Twitch-Stickers/blob/master/app/src/main/assets/1/TriHard.webp" alt="drawing" width="32"/>
   - and more...
 
+Note: Certain devices such as OnePlus reload the stickers each time WhatsApp is launched. Disabling battery optimization for the app fixes it.
 
 This app is a fork of [WhatsApp/Stickers](https://github.com/WhatsApp/stickers)
 

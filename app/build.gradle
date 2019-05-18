@@ -16,8 +16,8 @@ android {
         applicationId "me.kavishhukmani.watwitchstickers"
         minSdkVersion 15
         targetSdkVersion 28
-        versionCode 501
-        versionName "5.0.1"
+        versionCode 502
+        versionName "5.0.2"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
         def contentProviderAuthority = applicationId + ".stickercontentprovider"
         // Creates a placeholder property to use in the manifest.
@@ -104,4 +104,6 @@ dependencies {
     implementation 'com.facebook.fresco:webpsupport:1.10.0'
     implementation 'com.facebook.fresco:animated-webp:1.10.0'
     implementation 'com.facebook.fresco:webpsupport:1.10.0'
+    implementation 'com.facebook.fresco:animated-base:1.10.0'
+
 }

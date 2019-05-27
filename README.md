@@ -1,6 +1,7 @@
 # WhatsApp Twitch Stickers
 
 [![Build Status](https://travis-ci.org/DoubleGremlin181/WhatsApp-Twitch-Stickers.svg?branch=master)](https://travis-ci.org/DoubleGremlin181/WhatsApp-Twitch-Stickers)
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on F-Droid" height="48">](https://f-droid.org/packages/me.kavishhukmani.watwitchstickers)
 
 [Download](https://github.com/DoubleGremlin181/WhatsApp-Twitch-Stickers/releases/download/5.0.2/app-debug.apk)
 

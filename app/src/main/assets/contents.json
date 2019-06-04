@@ -4,7 +4,7 @@
   "sticker_packs": [
     {
       "identifier": "1",
-      "name": "Twitch Emotes",
+      "name": "Twitch Emote Faces",
       "publisher": "DoubleGremlin181",
       "tray_image_file": "Kappa_icon.png",
       "publisher_email":"khukmani@gmail.com",
@@ -22,10 +22,6 @@
         },
         {
           "image_file": "BabyRage.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "BibleThump.webp",
           "emojis": []
         },
         {
@@ -73,10 +69,6 @@
           "emojis": []
         },
         {
-          "image_file": "KonCha.webp",
-          "emojis": []
-        },
-        {
           "image_file": "Kreygasm.webp",
           "emojis": []
         },
@@ -89,19 +81,7 @@
           "emojis": []
         },
         {
-          "image_file": "OSFrog.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "PJSalt.webp",
-          "emojis": []
-        },
-        {
           "image_file": "PogChamp.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "PunOko.webp",
           "emojis": []
         },
         {
@@ -121,14 +101,6 @@
           "emojis": []
         },
         {
-          "image_file": "TTours.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "VoHiYo.webp",
-          "emojis": []
-        },
-        {
           "image_file": "WutFace.webp",
           "emojis": []
         }
@@ -136,6 +108,66 @@
     },
     {
       "identifier": "2",
+      "name": "More Twitch Emotes",
+      "publisher": "DoubleGremlin181",
+      "tray_image_file": "Smile_icon.png",
+      "publisher_email": "khukmani@gmail.com",
+      "publisher_website": "https://kavishhukmani.me",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "BibleThump.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "GivePLZ.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "KonCha.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "MrDestructoid.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "OSFrog.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "PJSalt.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "PunOko.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Smile.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "SMOrc.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "TakeNRG.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "TTours.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "VoHiYo.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "3",
       "name": "FFZ and BTTV Pepes",
       "publisher": "DoubleGremlin181",
       "tray_image_file": "monkaS_icon.png",
@@ -145,7 +177,7 @@
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "ez.webp",
+          "image_file": "FeelsAmazingMan.webp",
           "emojis": []
         },
         {
@@ -174,18 +206,6 @@
         },
         {
           "image_file": "FeelsWeirdManW.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "Huh.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "HYPERS.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "Kek.webp",
           "emojis": []
         },
         {
@@ -223,6 +243,46 @@
         {
           "image_file": "monkaW.webp",
           "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "More FFZ and BTTV Pepes",
+      "publisher": "DoubleGremlin181",
+      "tray_image_file": "HYPERS_icon.png",
+      "publisher_email": "khukmani@gmail.com",
+      "publisher_website": "https://kavishhukmani.me",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "Bruh.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "ez.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Huh.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "HYPERS.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Kek.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "peepoHappy.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "peepoLove.webp",
+          "emojis": []
         },
         {
           "image_file": "Pepega.webp",
@@ -234,6 +294,10 @@
         },
         {
           "image_file": "pepeJAM.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "pepeL.webp",
           "emojis": []
         },
         {
@@ -255,11 +319,15 @@
         {
           "image_file": "POGGERS.webp",
           "emojis": []
+        },
+        {
+          "image_file": "widepeepoHappy.webp",
+          "emojis": []
         }
       ]
     },
     {
-      "identifier": "3",
+      "identifier": "5",
       "name": "Other FFZ and BTTV",
       "publisher": "DoubleGremlin181",
       "tray_image_file": "OMEGALUL_icon.png",
@@ -268,6 +336,10 @@
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
+        {
+          "image_file": "3Head.webp",
+          "emojis": []
+        },
         {
           "image_file": "5Head.webp",
           "emojis": []
@@ -290,6 +362,14 @@
         },
         {
           "image_file": "gachiGASM.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "GoodMorning.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "GoodNight.webp",
           "emojis": []
         },
         {
@@ -330,11 +410,23 @@
           "emojis": []
         },
         {
+          "image_file": "MikuStare.webp",
+          "emojis": []
+        },
+        {
           "image_file": "NaM.webp",
           "emojis": []
         },
         {
+          "image_file": "OhISee.webp",
+          "emojis": []
+        },
+        {
           "image_file": "OMEGALUL.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Pog.webp",
           "emojis": []
         },
         {

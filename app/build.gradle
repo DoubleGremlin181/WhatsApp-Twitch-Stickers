@@ -16,8 +16,8 @@ android {
         applicationId "me.kavishhukmani.watwitchstickers"
         minSdkVersion 15
         targetSdkVersion 28
-        versionCode 502
-        versionName "5.0.2"
+        versionCode 600
+        versionName "6.0.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
         def contentProviderAuthority = applicationId + ".stickercontentprovider"
         // Creates a placeholder property to use in the manifest.

@@ -281,6 +281,10 @@
           "emojis": []
         },
         {
+          "image_file": "coronaS.webp",
+          "emojis": []
+        },
+        {
           "image_file": "ez.webp",
           "emojis": []
         },
@@ -297,11 +301,23 @@
           "emojis": []
         },
         {
+          "image_file": "NOP.webp",
+          "emojis": []
+        },
+        {
           "image_file": "peepoHappy.webp",
           "emojis": []
         },
         {
           "image_file": "peepoLove.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "peepoSad.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Pepeg.webp",
           "emojis": []
         },
         {
@@ -333,6 +349,10 @@
           "emojis": []
         },
         {
+          "image_file": "PepeScoots.webp",
+          "emojis": []
+        },
+        {
           "image_file": "PepoThink.webp",
           "emojis": []
         },
@@ -343,6 +363,14 @@
         {
           "image_file": "widepeepoHappy.webp",
           "emojis": []
+        },
+        {
+          "image_file": "widepeepoSad.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "YEP.webp",
+          "emojis": []
         }
       ]
     },
@@ -350,7 +378,7 @@
       "identifier": "5",
       "name": "Other FFZ and BTTV",
       "publisher": "DoubleGremlin181",
-      "tray_image_file": "OMEGALUL_icon.png",
+      "tray_image_file": "5Head_icon.png",
       "publisher_email": "khukmani@gmail.com",
       "publisher_website": "https://kavishhukmani.me",
       "privacy_policy_website": "",
@@ -405,6 +433,10 @@
           "emojis": []
         },
         {
+          "image_file": "KEKL.webp",
+          "emojis": []
+        },
+        {
           "image_file": "KEKW.webp",
           "emojis": []
         },
@@ -420,7 +452,19 @@
         {
           "image_file": "Krappa.webp",
           "emojis": []
-        },
+        }
+      ]
+    },
+    {
+      "identifier": "6",
+      "name": "Some more FFZ and BTTV",
+      "publisher": "DoubleGremlin181",
+      "tray_image_file": "OMEGALUL_icon.png",
+      "publisher_email": "khukmani@gmail.com",
+      "publisher_website": "https://kavishhukmani.me",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
         {
           "image_file": "LuL.webp",
           "emojis": []
@@ -446,6 +490,10 @@
           "emojis": []
         },
         {
+          "image_file": "OkayChamp.webp",
+          "emojis": []
+        },
+        {
           "image_file": "OMEGALUL.webp",
           "emojis": []
         },
@@ -455,6 +503,10 @@
         },
         {
           "image_file": "PogU.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "sadKEK.webp",
           "emojis": []
         },
         {
